@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Online Shopping Application</string>
+
+
+    <string-array name="category">
+        <item>iphone</item>
+        <item>samsung</item>
+    </string-array>
+
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
 </resources>
